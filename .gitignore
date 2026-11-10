@@ -1,0 +1,15 @@
+# API 키
+.env
+
+# 가상환경
+.venv/
+
+# 추출 이미지·캐시(pkl)·리포트
+output/
+
+# 파이썬
+__pycache__/
+*.py[cod]
+
+# 상위 폴더의 *.pdf 무시 규칙과 상관없이 예제 PDF 는 포함
+!examples/*.pdf

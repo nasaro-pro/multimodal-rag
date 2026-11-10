@@ -1,0 +1,9 @@
+# examples/reliance.pdf 용 질문 5건 (한 줄에 하나, # 은 주석)
+# 실행: python multimodal_rag.py --questions examples/questions.txt
+# → output/<pdf이름>_<해시>/report.md 에 Before/After 와 요약표가 저장됩니다.
+
+보고서 사진 속 사람들은 각각 무엇을 하고 있고, 어떤 사업(에너지·리테일·디지털·친환경)을 보여주는 장면이야?
+전기차 충전소 사진에 보이는 장면과 로고를 설명해줘
+CSR 기여액과 새로 만든 일자리 수는 각각 얼마야?
+매출, 순이익, 수출, 시가총액 수치를 알려줘
+이 보고서가 다루지 않는 내용은 무엇인지 알려줘
